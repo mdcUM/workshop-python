@@ -1,6 +1,6 @@
-# Random Advice Generator 🎲
+# Workshop-python
 
-A tiny Python project used in the setup workshop. It calls a free public API
+A tiny Python project used in MDC TechDev Workshop 1. It calls a free public API
 and prints a random piece of advice to your terminal — a quick way to confirm
 that Python and pip are working on your machine.
 
@@ -19,8 +19,8 @@ that Python and pip are working on your machine.
 
 1. **Clone this repository** (if you haven't already):
    ```bash
-   git clone <repo-url>
-   cd python-starter
+   git clone https://github.com/mdcUM/workshop-python
+   cd workshop-python
    ```
 
 2. **Install the dependencies:**
